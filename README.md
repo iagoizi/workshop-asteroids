@@ -4,7 +4,7 @@ Repository created to practice the basics concepts of 2d Game Development with U
 
 ## To-do's
 
-- [ ] background;
+- [x] background;
 - [x] destroy bullet over time;
 - [ ] when destroyed, an asteroid spawns little baby asteroids.
 
