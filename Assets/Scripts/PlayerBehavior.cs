@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class ComportamentoJogador : MonoBehaviour
+public class PlayerBehavior : MonoBehaviour
 {
     public Rigidbody2D meuRigidbody;
     public float aceleracao = 1.0f;

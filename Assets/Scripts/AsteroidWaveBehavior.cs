@@ -1,8 +1,8 @@
 using UnityEngine;
 
-public class OndaDeAsteroides : MonoBehaviour
+public class AsteroidWaveBehavior : MonoBehaviour
 {
-    public ComportamentoAsteroide prefabAsteroide;
+    public AsteroidBehavior prefabAsteroide;
     public int quantosAsteroides = 3;
 
     void Start()

@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class ComportamentoAsteroide : MonoBehaviour
+public class AsteroidBehavior : MonoBehaviour
 {
     public Rigidbody2D meuRigidbody;
     public float velocidadeMaxima = 1.0f;

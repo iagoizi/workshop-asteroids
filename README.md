@@ -1,17 +1,18 @@
 # workshop-asteroids
 
-[slides](https://docs.google.com/presentation/d/e/2PACX-1vQKcxOMLacZIDottRnOgX2tF6MGSZD9oo07iwxwqNiAe_vH9JJTMbraq_hDYcKg9xkzRUTDHoc5WCdS/pub?start=false&loop=false&delayms=60000)
+Repository created to practice the basics concepts of 2d Game Development with Unity.
 
-DESAFIOS:
-- botar fundo bonitim
-- destruir projetil depois de um tempo
-- instanciar asteroides menores quando um maior é destruído
+## To-do's
 
-DESAFIOS DESAFIADORES:
-- adicionar sons (usando o [AudioSource](https://docs.unity3d.com/ScriptReference/AudioSource.html) pra tocar audio e [sfxr](https://sfxr.me/) pra criar os audios)
-  - atirar projetil
-  - explodir asteroide
-  - explodir jogador
-- pontuação
-- "posição toroidal" (quando algo sai pela esquerda da tela, aparecer na direita, etc)
+- [ ] background;
+- [x] destroy bullet over time;
+- [ ] when destroyed, an asteroid spawns little baby asteroids.
 
+## Challenge
+
+- [ ] Add sounds when:
+  - shooting;
+  - asteroid explodes;
+  - play explodes.
+- [ ] score;
+- [ ] "toroidal position".
